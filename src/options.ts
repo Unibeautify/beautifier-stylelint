@@ -14,7 +14,7 @@ const styleOptions: BeautifierLanguageOptions = {
         return ["tab"];
       }
 
-      return undefined; // TODO: use Unibeautify default
+      return undefined;
     },
   ],
 };
