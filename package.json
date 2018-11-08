@@ -2,11 +2,7 @@
   "name": "@unibeautify/beautifier-stylelint",
   "version": "0.0.1",
   "description": "stylelint beautifier for Unibeautify",
-  "keywords": [
-    "beautifier",
-    "eslint",
-    "unibeautify"
-  ],
+  "keywords": ["beautifier", "eslint", "unibeautify"],
   "homepage": "git+https://github.com/Unibeautify/beautifier-stylelint#readme",
   "bugs": {
     "url": "https://github.com/Unibeautify/beautifier-stylelint/issues"
