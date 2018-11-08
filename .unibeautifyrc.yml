@@ -5,7 +5,7 @@ JSON:
   indent_size: 2
 JavaScript:
   beautifiers: ["Prettier"]
-  indent_char: " "
+  indent_style: "space"
   indent_size: 2
 TypeScript:
   beautifiers: ["Prettier"]
