@@ -4,7 +4,7 @@
   "description": "stylelint beautifier for Unibeautify",
   "keywords": [
     "beautifier",
-    "eslint",
+    "stylelint",
     "unibeautify"
   ],
   "homepage": "git+https://github.com/Unibeautify/beautifier-stylelint#readme",
