@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "string-quotes": "single",
+    "indentation": [2]
+  }
+}
