@@ -14,7 +14,7 @@ TypeScript:
   break_chained_methods: true
   end_with_comma: true
   end_with_semicolon: true
-  indent_char: " "
+  indent_style: "space"
   indent_size: 2
   jsx_brackets: false
   multiline_ternary: true
