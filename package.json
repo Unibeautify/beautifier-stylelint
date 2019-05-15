@@ -2,7 +2,11 @@
   "name": "@unibeautify/beautifier-stylelint",
   "version": "0.0.1",
   "description": "stylelint beautifier for Unibeautify",
-  "keywords": ["beautifier", "eslint", "unibeautify"],
+  "keywords": [
+    "beautifier",
+    "eslint",
+    "unibeautify"
+  ],
   "homepage": "git+https://github.com/Unibeautify/beautifier-stylelint#readme",
   "bugs": {
     "url": "https://github.com/Unibeautify/beautifier-stylelint/issues"
@@ -38,8 +42,7 @@
   "devDependencies": {
     "@types/cosmiconfig": "5.0.3",
     "@types/jest": "24.0.12",
-    "@types/node": "11.13.9",
-    "@types/read-pkg-up": "3.0.1",
+    "@types/node": "12.0.1",
     "@types/stylelint": "9.10.0",
     "jest": "24.8.0",
     "rimraf": "2.6.3",
