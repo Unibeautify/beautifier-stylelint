@@ -38,7 +38,7 @@
   "devDependencies": {
     "@types/cosmiconfig": "5.0.3",
     "@types/node": "12.7.2",
-    "@types/jest": "24.0.17",
+    "@types/jest": "24.0.18",
     "@types/stylelint": "9.10.1",
     "jest": "24.9.0",
     "rimraf": "3.0.0",
