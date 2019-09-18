@@ -42,7 +42,7 @@
     "@types/stylelint": "9.10.1",
     "jest": "24.9.0",
     "rimraf": "3.0.0",
-    "stylelint": "10.1.0",
+    "stylelint": "11.0.0",
     "ts-jest": "24.1.0",
     "tslint": "5.20.0",
     "tslint-clean-code": "0.2.10",
@@ -51,7 +51,7 @@
     "unibeautify": "0.17.0"
   },
   "peerDependencies": {
-    "stylelint": "^9.7.1 || ^10.0.0",
+    "stylelint": "^9.7.1 || ^10.0.0 || ^11.0.0",
     "unibeautify": ">= 0.12.1"
   }
 }
