@@ -9,7 +9,7 @@ import * as readPkgUp from "read-pkg-up";
 import options from "./options";
 import * as cosmiconfig from "cosmiconfig";
 import { utils, lint } from "stylelint";
-const pkg = readPkgUp.sync({ cwd: __dirname })!.package;
+const pkg = readPkgUp.sync({ cwd: __dirname })!.packageJson;
 
 export const beautifier: Beautifier = {
   name: "stylelint",
