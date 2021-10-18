@@ -39,10 +39,10 @@
     "@types/cosmiconfig": "5.0.3",
     "@types/node": "12.12.31",
     "@types/jest": "24.9.1",
-    "@types/stylelint": "9.10.1",
+    "@types/stylelint": "13.13.3",
     "jest": "24.9.0",
     "rimraf": "3.0.2",
-    "stylelint": "11.1.1",
+    "stylelint": "13.13.1",
     "ts-jest": "24.3.0",
     "tslint": "5.20.1",
     "tslint-clean-code": "0.2.10",
@@ -51,7 +51,7 @@
     "unibeautify": "0.17.1"
   },
   "peerDependencies": {
-    "stylelint": "^9.7.1 || ^10.0.0 || ^11.0.0",
+    "stylelint": "^9.7.1 || ^10.0.0 || ^11.0.0 || ^13.0.0",
     "unibeautify": ">= 0.12.1"
   }
 }
