@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "cosmiconfig": "^5.2.0",
-    "read-pkg-up": "^7.0.0"
+    "read-pkg-up": "^10.0.0"
   },
   "devDependencies": {
     "@types/cosmiconfig": "5.0.3",
